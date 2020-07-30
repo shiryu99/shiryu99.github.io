@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+body{
+    font-size: 20px;
+    
+    /* フォントの種類を指定するプロパティ */
+    font-family: "hiragino kaku Gothic Pron", "ヒラギノ角ゴシックPron", Meiryo, "MS Pゴシック", "sans-serif";
+}
+
+h1{
+
+    background-color: aqua;
+    
+}
+
+h2{
+    font-size: 30px;
+    color: currentColor
+    
+}
+
+p{
+    color: red;
+}
